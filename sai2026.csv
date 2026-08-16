@@ -1,0 +1,18 @@
+Batsman,opponent,Venue,innings,Pitch_type,Runs,Ball_played,Strikerate,4s,6s,Dismissed,Length,Bowl_speed,Bowling_type,Match_over,Bowler_over
+Sai,PBKS,New Chandigarh,1st,Flat,13,11,118,2,0,Catch,Fuller,131,Left arm fast medium,4th ,1
+Sai,RR,Ahmedabad,2nd,bouncy,73,44,165,9,3,Catch,length,93,Right arm leg break,11th,1
+Sai,DC,Delhi,1st,Flat,12,7,171,2,0,Bowled,length,137,Right arm medium fast,3rd,1
+Sai,LSG,Lucknow,2nd,Spin,15,14,107,3,0,Catch,length,96,Right arm leg break,6th,1
+Sai,KKR,Ahmedabad,2nd,bouncy,22,16,137,1,2,Catch,length,90,Right arm off spin,6th,1
+Sai,MI,Ahmedabad,2nd,bouncy,0,1,0,0,0,Catch,Fuller,136,Right arm fast,1st,1
+Sai,RCB,Bengaluru,1st,Flat,100,58,173,11,5,Catch,Short,143,Right arm fast,16th,3
+Sai,CSK,Chennai,2nd,Spin,87,46,190,4,7,Catch,length,87,left arm off spin,17th,4
+Sai,RCB,Ahmedabad,2nd,bouncy,6,5,120,1,0,Catch,length,136,Right arm medium fast,3rd,2
+Sai,PBKS,Ahmedabad,2nd,bouncy,57,41,139,5,1,Catch,Short,134,Right arm fast medium,15th,4
+Sai,RR,Jaipur,1st,Balanced,55,36,153,6,2,Catch,Fuller,94,Right arm leg spin,11th,3
+Sai,SRH,Ahmedabad,1st,bouncy,61,44,139,5,2,Catch,Full toss,137,Right arm fast medium,17th,3
+Sai,KKR,Kolkata,2nd,Flat,53,28,190,6,3,Not out,nill,nill,nill,nill,nill
+Sai,CSK,Ahmedabad,1st,Flat,84,53,159,7,3,Catch,Fuller,133,Right arm medium fast,19th,4
+Sai,RCB,Dharamsala,2nd,Flat,14,9,155,3,0,Hit wicket,length,135,Right arm fast medium,3rd,2
+Sai,RR,New Chandigarh,2nd,Flat,58,32,181,8,1,Hit wicket,Full toss,136,Right arm fast medium,13th,3
+Sai,RCB,Ahmedabad,1st,bouncy,12,12,100,2,0,Catch,Short,138,Right arm medium fast,4th ,2
